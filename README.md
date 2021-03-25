@@ -1,3 +1,3 @@
 # Coodinated-Calculation-Program
-# c language
+# C language
 The program calculates coodonates 
