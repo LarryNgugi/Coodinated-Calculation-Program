@@ -1,3 +1,3 @@
-# Coodinated-Calculation-Program
+# coordinate-Calculation-Program
 # C language
-The program calculates coodonates 
+The program calculates coordinate 
